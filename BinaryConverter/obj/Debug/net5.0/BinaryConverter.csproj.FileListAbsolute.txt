@@ -1,0 +1,16 @@
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\bin\Debug\net5.0\BinaryConverter.exe
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\bin\Debug\net5.0\BinaryConverter.deps.json
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\bin\Debug\net5.0\BinaryConverter.runtimeconfig.json
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\bin\Debug\net5.0\BinaryConverter.runtimeconfig.dev.json
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\bin\Debug\net5.0\BinaryConverter.dll
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\bin\Debug\net5.0\ref\BinaryConverter.dll
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\bin\Debug\net5.0\BinaryConverter.pdb
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\obj\Debug\net5.0\BinaryConverter.csproj.AssemblyReference.cache
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\obj\Debug\net5.0\BinaryConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\obj\Debug\net5.0\BinaryConverter.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\obj\Debug\net5.0\BinaryConverter.AssemblyInfo.cs
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\obj\Debug\net5.0\BinaryConverter.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\obj\Debug\net5.0\BinaryConverter.dll
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\obj\Debug\net5.0\ref\BinaryConverter.dll
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\obj\Debug\net5.0\BinaryConverter.pdb
+C:\Users\sebas\Documents\GitHub\BinaryConverterCSharp\BinaryConverter\obj\Debug\net5.0\BinaryConverter.genruntimeconfig.cache
