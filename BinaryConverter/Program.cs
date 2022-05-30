@@ -8,10 +8,12 @@ namespace BinaryConverter
         {
             const int value = 10;
             var binary = Convert.ToString(value, 2);
- 
+            
+            Console.WriteLine(ToBinary(10));
             Console.WriteLine(binary);
         }
-        public static string ToBinary(int x)
+
+        private static string ToBinary(int x)
         {
             var character = new char[32];
  
